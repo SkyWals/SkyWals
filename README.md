@@ -30,7 +30,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/Grwalison">
+  <a href="https://github.com/gwalisonls">
     <img
       align="center"
       width="410px"
@@ -51,13 +51,13 @@
 ### ⭐ Top Projects
 
 <p align="center">
-  <a href="https://github.com/Grwalison/Grwalison.github.io">
+  <a href="https://github.com/gwalisonls/gwalisonls.github.io">
     <img
     width="410px"
     align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grwalison&repo=journey-site&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/Grwalison/Snake-game">
+  <a href="https://github.com/gwalisonls/Snake-game">
     <img
     width="410px"
     align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grwalison&repo=Snake-game&title_color=ff0&icon_color=0f0&theme=highcontrast" />
