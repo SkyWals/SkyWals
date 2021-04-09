@@ -6,8 +6,8 @@
   
 <p align = left> I am studying: <strong> Developer Web e Mobile </strong>. </p>
 
-<p align = "left"> 🚀 Experience: <strong> HTML5, CSS3 </strong> </p>
-<p align = "left"> 📝 Studying: <strong> Node.JS and React. </strong> </p>
+<p align = "left"> 🚀 Experience: <strong> Front-End Web Development </strong> </p>
+<p align = "left"> 📝 Studying: <strong> Development Full-Stack </strong> </p>
 <p align = "left"> 📝 Insterested: <strong>Python, Next.js </strong> </p>
 
 <p align = "left"> 💬 Social Networkings: ⤵️ </p>
