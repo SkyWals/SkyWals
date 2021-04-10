@@ -55,7 +55,8 @@
 <p align="center">
   <a href="https://github.com/gwalisonls/Site-Journey">
     <img
-    width="420px"
+    width="410px"
+    padding="5px"
     align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=Site-Journey&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
   &nbsp; &nbsp;
