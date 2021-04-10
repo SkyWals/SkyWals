@@ -56,13 +56,14 @@
   <a href="https://github.com/gwalisonls/Site-Journey">
     <img
     width="410px"
-    padding="5px"
-    align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=Site-Journey&title_color=ff0&icon_color=0f0&theme=highcontrast" />
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=Site-Journey&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/gwalisonls/SnakeGame-v1.0">
     <img
     width="410px"
-    align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=SnakeGame-v1.0&title_color=ff0&icon_color=0f0&theme=highcontrast" />
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=SnakeGame-v1.0&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
 </p>
