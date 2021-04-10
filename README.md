@@ -61,7 +61,7 @@
   &nbsp; &nbsp;
   <a href="https://github.com/gwalisonls/SnakeGame-v1.0">
     <img
-    width="410px"
+    width="420px"
     align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=SnakeGame-v1.0&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
 </p>
