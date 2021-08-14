@@ -36,14 +36,14 @@
     <img
       align="center"
       width="410px"
-      src = "https://github-readme-stats.vercel.app/api?username=gwalisonls&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
+      src = "https://github-readme-stats.vercel.app/api?username=SkyWals&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       width="410px"
-      src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gwalisonls&layout=compact&theme=highcontrast"
+      src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SkyWals&layout=compact&theme=highcontrast"
     />
   </a>
 </p>
@@ -53,17 +53,17 @@
 ### ⭐ Top Projects
 
 <p align="center">
-  <a href="https://github.com/gwalisonls/Site-Journey">
+  <a href="https://github.com/SkyWals/Site-Journey">
     <img
     width="410px"
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=Site-Journey&title_color=ff0&icon_color=0f0&theme=highcontrast" />
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SkyWals&repo=Site-Journey&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/gwalisonls/SnakeGame-v1.0">
+  <a href="https://github.com/SkyWals/SnakeGame-v1.0">
     <img
     width="410px"
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gwalisonls&repo=SnakeGame-v1.0&title_color=ff0&icon_color=0f0&theme=highcontrast" />
+    src="https://github-readme-stats.vercel.app/api/pin/?username=SkyWals&repo=SnakeGame-v1.0&title_color=ff0&icon_color=0f0&theme=highcontrast" />
   </a>
 </p>
