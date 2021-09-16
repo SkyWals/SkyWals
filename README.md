@@ -21,6 +21,16 @@
 </p>
 <br>
 
+<p align="center">
+  <a href="https://github.com/gwalisonls">
+    <img
+      align="center"
+      width="410px"
+      src = "https://github-readme-stats.vercel.app/api?username=SkyWals&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
+
 ---
 
 #### Status Atual:
@@ -32,13 +42,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/gwalisonls">
-    <img
-      align="center"
-      width="410px"
-      src = "https://github-readme-stats.vercel.app/api?username=SkyWals&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
-    />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
