@@ -21,7 +21,9 @@
 </p>
 <br>
 
-<p align="center" padding=12
+---
+
+<p align="center"
   <a href="https://github.com/gwalisonls">
     <img
       align="center"
