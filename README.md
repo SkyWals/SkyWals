@@ -23,18 +23,6 @@
 
 ---
 
-<p align="center"
-  <a href="https://github.com/gwalisonls">
-    <img
-      align="center"
-      width="410px"
-      src = "https://github-readme-stats.vercel.app/api?username=SkyWals&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p>
-
----
-
 #### Status Atual:
 <p align = "left"> improving my skills in CSS and javascript.</p>
 <p align = "left"> Estudying Node.js and React</p>
@@ -49,6 +37,16 @@
       align="center"
       width="410px"
       src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SkyWals&layout=compact&theme=highcontrast"
+    />
+  </a>
+</p>
+
+<p align="center"
+  <a href="https://github.com/gwalisonls">
+    <img
+      align="center"
+      width="410px"
+      src = "https://github-readme-stats.vercel.app/api?username=SkyWals&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
