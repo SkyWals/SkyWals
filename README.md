@@ -31,24 +31,8 @@
 
 ---
 
-<div  style="width: 820px; height: 200px; display: flex;">
-   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        width="400px"
-        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SkyWals&layout=compact&theme=highcontrast"
-      />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/gwalisonls">
-      <img
-        align="center"
-        width="400px"
-        src = "https://github-readme-stats.vercel.app/api?username=SkyWals&show_icons=true&icon_color=0f0&theme=highcontrast&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </p>
+ <div>
+  <a href="https://github.com/skywals">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skywals&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skywals&layout=compact&langs_count=7&theme=dracula"/>
 </div>
