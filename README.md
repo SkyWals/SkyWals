@@ -13,10 +13,10 @@
 <p align = "left"> 💬 Social Networkings: ⤵️ </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/walison-lima-77923b225/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/walison-lima-77923b225/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/walisonls_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="beacons.ai/walisonls"><img src="Learn more..." alt="Learn more...">
+  <a href="https://www.instagram.com/walisonls_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="beacons.ai/walisonls" target="_blank">Learn more...
   </a>
 </p>
 <br>
