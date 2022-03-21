@@ -4,11 +4,11 @@
   
   <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" width="500px" align="left">
   
-<p align = left> I am studying: <strong> Developer Web e Mobile </strong>. </p>
+<p align = left> I am studying: <strong> soft engineer </strong>. </p>
 
 <p align = "left"> 🚀 Experience: <strong> Front-End Web Development </strong> </p>
 <p align = "left"> 📝 Studying: <strong> Development Full-Stack </strong> </p>
-<p align = "left"> 📝 Insterested: <strong>Python, Next.js </strong> </p>
+<p align = "left"> 📝 Insterested: <strong>Python, Javascript </strong> </p>
 
 <p align = "left"> 💬 Social Networkings: ⤵️ </p>
 
@@ -35,9 +35,8 @@
 </div>
 
 #### Status Atual:
-<p align = "left"> improving my skills in CSS and javascript.</p>
 <p align = "left"> Estudying Node.js and React</p>
-<p align = "left"> I hope one day to work as a web developer 🤔.</p>
+<p align = "left"> I hope one day to work as a soft engineer 🤔.</p>
 <p align = "left"> Looking for projects to train, if in a group even better.</p>
 
 ---
