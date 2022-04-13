@@ -56,5 +56,5 @@
 #### Status Atual:
 <p align = "left"> Estudando Back End</p>
 <p align = "left"> O que esse codigo aqui faz? 🤔.</p>
-<p align = "left"> Gosto de trabalhar em grupo, acho interessante o progresso em equipe</p>
+<p align = "left"> Gosto de trabalhar em grupo, acho interessante o progresso em equipe.</p>
 
