@@ -39,12 +39,3 @@
 <p align = "left"> I hope one day to work as a soft engineer 🤔.</p>
 <p align = "left"> Looking for projects to train, if in a group even better.</p>
 
----
-
- <div>
-  <a href="https://github.com/walisonls">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walisonls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walisonls&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-  
-</div>
