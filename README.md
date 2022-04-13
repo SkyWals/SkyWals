@@ -26,7 +26,7 @@
 <div style="display: inline_block">
   <img
        title="html: Linguagem de marcação"
-       align="center" alt="Rakel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       align="center" alt="Rakel-HTML" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img
        title="css: Tecnologia de estilização"
        align="center" alt="Rakel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
