@@ -10,16 +10,19 @@
 <p align = "left"> 📝 Estudando: <strong> Development Full-Stack </strong> </p>
 <p align = "left"> 📝 Enteressado: <strong> Focar e melhorar nas linguagens e tecnologias que eu já uso </strong> </p>
 
-<p align = "left"> 💬 Redes Sociais: ⤵️ </p>
 
 <p align="left">
-  <a href="https://beacons.ai/walisonls" target="_blank"> Networks & Contact
+  💬 Redes Sociais: ⤵️ <br/>
+  <a href="https://beacons.ai/walisonls" target="_blank"> Clique Aqui...
   </a>
 </p>
 <br>
 
----
- #### Posicione o Mouse em cima dos icones para mais informações.
+ <div style="display: inline_block"><br>                                                                                                                    
+  <img align="right" height="300" style="border-radius:10px;" src="./WhatsApp_Image_2022-02-16_at_16.08.06-removebg-preview.png">
+</div>
+
+ ## 🧩Tecnologias que uso
 <div style="display: inline_block">
   <img
        title="html: Linguagem de marcação"
@@ -54,7 +57,7 @@
 </div><br/>
 
 #### Status Atual:
-<p align = "left"> Estudando Back End</p>
+<p align = "left"> Estudando Back End.</p>
 <p align = "left"> O que esse codigo aqui faz? 🤔.</p>
 <p align = "left"> Gosto de trabalhar em grupo, acho interessante o progresso em equipe.</p>
 
