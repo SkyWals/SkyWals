@@ -6,11 +6,11 @@
   
 <p align = left> I am studying: <strong> soft engineer </strong>. </p>
 
-<p align = "left"> 🚀 Experience: <strong> Desenvolvimento web Full Stack </strong> </p>
-<p align = "left"> 📝 Studying: <strong> Development Full-Stack </strong> </p>
-<p align = "left"> 📝 Insterested: <strong> Focar e melhorar nas linguagens e tecnologias que eu já uso </strong> </p>
+<p align = "left"> 🚀 Experiencia: <strong> Desenvolvimento web Full Stack </strong> </p>
+<p align = "left"> 📝 Estudando: <strong> Development Full-Stack </strong> </p>
+<p align = "left"> 📝 Enteressado: <strong> Focar e melhorar nas linguagens e tecnologias que eu já uso </strong> </p>
 
-<p align = "left"> 💬 Social Networkings: ⤵️ </p>
+<p align = "left"> 💬 Redes Sociais: ⤵️ </p>
 
 <p align="left">
   <a href="https://beacons.ai/walisonls" target="_blank"> Networks & Contact
