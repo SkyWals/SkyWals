@@ -1,8 +1,8 @@
 <h2 align = "left"> <img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> 
   Hi!!, my name is Walison lima. 
-  <img src="https://ik.imagekit.io/dxszffuuh8/Pet-Github_-t0pUv0q3.gif" margin=10px height=30px width=30px> </h2>
+  <img src="https://ik.imagekit.io/dxszffuuh8/Pet-Github_-t0pUv0q3.gif" height=30px width=30px> </h2>
   
-  <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" width="500px" align="left">
+  <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" margin=10px width="500px" align="left">
   
 <p align = left> I am studying: <strong> soft engineer </strong>. </p>
 
