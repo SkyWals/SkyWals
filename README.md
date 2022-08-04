@@ -4,7 +4,7 @@
   
   <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" margin=10px width="500px" align="left">
   
-<p align = left> I am studying: <strong> soft engineer </strong>. </p>
+<p align = left> Faculdade: <strong> Engenraria de Software </strong>. </p>
 
 <p align = "left"> 🚀 Experiencia: <strong> Desenvolvimento web Full Stack </strong> </p>
 <p align = "left"> 📝 Estudando: <strong> Development Full-Stack </strong> </p>
