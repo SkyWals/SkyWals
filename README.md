@@ -37,8 +37,11 @@
        title="nodejs: software de código aberto para javascript"
        align="center" alt="Rakel-Nodejs" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img
-       title="Reactjs: biblioteca front-end || React Native: usado para criar aplicativos Mobile"
-       align="center" alt="Rakel-Nodejs" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+       title="Vuejs: framework para desenvolvimento leve, simples e forte"
+       align="center" alt="Rakel-Vuejs" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img
+       title="Electron: Usado para criação de Aplicativos Desktop"
+       align="center" alt="Rakel-electron" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   <img
        title="MySQL: Banco de dados relacional"
        align="center" alt="Rakel-mysql" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -48,9 +51,6 @@
   <img
        title="Python: Linguagem de Programação"
        align="center" alt="Rakel-python" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img
-       title="Electron: Usado para criação de Aplicativos Desktop"
-       align="center" alt="Rakel-electron" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   <img
        title="Figma: Ferramenta de Prototipagem"
        align="center" alt="Rakel-figma" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
