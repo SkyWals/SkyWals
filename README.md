@@ -1,5 +1,5 @@
 <h2 align = "left"> <img src="https://ik.imagekit.io/dxszffuuh8/wave_tObQfF_Zn.gif" height=30px width=30px> 
-  Hi!!, my name is Walison lima. 
+  Olá!!, Meu nome é Walison lima. 
   <img src="https://ik.imagekit.io/dxszffuuh8/Pet-Github_-t0pUv0q3.gif" height=30px width=30px> </h2>
   
   <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" margin=10px width="500px" align="left">
@@ -7,7 +7,7 @@
 <p align = left> Faculdade: <strong> Engenraria de Software </strong>. </p>
 
 <p align = "left"> 🚀 Experiencia: <strong> Desenvolvimento web Full Stack </strong> </p>
-<p align = "left"> 📝 Estudando: <strong> Development Full-Stack </strong> </p>
+<p align = "left"> 📝 Estudando: <strong> Eng. de Software - Estacio </strong> </p>
 <p align = "left"> 📝 Enteressado: <strong> Focar e melhorar nas linguagens e tecnologias que eu já uso </strong> </p>
 
 
