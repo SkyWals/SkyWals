@@ -19,7 +19,7 @@
 <br>
 
  <div style="display: inline_block"><br>                                                                                                                    
-  <img align="right" height="300" style="border-radius:10px;" src="./WhatsApp_Image_2022-02-16_at_16.08.06-removebg-preview.png">
+  <img align="right" height="300" style="border-radius:10px;" src="./avatar.png">
 </div>
 
  ## 🧩Tecnologias que uso
