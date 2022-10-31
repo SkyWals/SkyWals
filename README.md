@@ -2,7 +2,7 @@
   Olá!!, Meu nome é Walison lima. 
   <img src="https://ik.imagekit.io/dxszffuuh8/Pet-Github_-t0pUv0q3.gif" height=30px width=30px> </h2>
   
-  <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" margin="10" width="500px" align="left">
+  <img src="./imgs/progresso.gif" margin-right="300px" min-width="500px" max-width="500px" margin="10px" width="500px" align="left">
   
 <p align = left> Faculdade: <strong> Engenraria de Software </strong>. </p>
 
@@ -19,7 +19,7 @@
 <br>
 
  <div style="display: inline_block"><br>                                                                                                                    
-  <img align="right" height="300" style="border-radius:10px;" src="./avatar.png">
+  <img align="right" height="300px" style="border-radius:10px;" src="./avatar.png">
 </div>
 
  ## 🧩Tecnologias que uso
