@@ -6,9 +6,9 @@
   
 <p align = left> Faculdade: <strong> Engenraria de Software </strong>. </p>
 
-<p align = "left"> 🚀 Experiencia: <strong> Desenvolvimento web Full Stack </strong> </p>
+<p align = "left"> 🚀 Experiencia: <strong> Desenvolvimento Full Stack </strong> </p>
 <p align = "left"> 📝 Estudando: <strong> Eng. de Software - Estacio </strong> </p>
-<p align = "left"> 📝 Enteressado: <strong> Focar e melhorar nas linguagens e tecnologias que eu já uso </strong> </p>
+<p align = "left"> 📝 Enteressado: <strong> Melhora minhas habilidades e adquirir novas skills </strong> </p>
 
 
 <p align="left">
