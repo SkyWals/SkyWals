@@ -39,6 +39,9 @@
   <img
        title="javascript: Linguagem de Programação"
        align="center" alt="Rakel-Js" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img
+       title="javascript: Linguagem de Programação"
+       align="center" alt="Rakel-Ts" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img
        title="nodejs: software de código aberto para javascript"
        align="center" alt="Rakel-Nodejs" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
