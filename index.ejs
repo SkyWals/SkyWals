@@ -32,44 +32,46 @@
 </head>
 
 <body>
+
     <div class="container">
 
-        <header>
-            <img src="https://avatars.githubusercontent.com/u/82228528?v=4" alt="Perfil">
-            <p class="typewriter" >Sejam bem vindos ao meu portifólio, meu nome é Walison Lima.</p>
-        </header>
+        <img src="" alt="Perfil">
 
-        <div class="slide">
-            <p>JavaScript</p>
+        <p class="typewriter">Boas Vindas, Meu nome é Walison Lima</p>
+
+        <div class="slide"></div>
+
+        <div class="buttons">
+            <p><!-- %= githubData.login % --></p>
+
+            <button>
+                <span>102</span>
+                <p>Projetos<br/>GitHub</p>
+            </button>
+
+            <button onclick="OpenOverlay()">
+                <i>Icon</i>
+                <p>Serviços</p>
+            </button>
+
         </div>
-
-        <div class="panel github">
-            <p>102</p>
-            <span>Projetos</span>
-        </div>
-
-        <button class="panel services">
-            <p>Serviços</p>
-        </button>
-
 
         <div class="description">
-            <p> Ela sobreviveu não apenas a cinco séculos, mas também ao salto para a composição tipográfica eletrônica, permanecendo essencialmente inalterada. Foi popularizado na década de 1960 com o lançamento de folhas Letraset contendo passagens de Lorem Ipsum e, mais recentemente, com software de editoração eletrônica como Aldus PageMaker, incluindo versões de Lorem Ipsum.</p>
+            <p>
+
+            </p>
         </div>
 
-
-        <footer id="credits">
-            <div class="networks">
-                <i>instagram</i>
-                <i>Linkedin</i>
-                <i>GitHub</i>
-            </div>
-
-
-            <p class="logo">NetLink*</p>
+        <footer>
+            <i>instagram</i>
+            <i>github</i>
+            <i>linkedin</i>
         </footer>
-    </div>
+
+    </div><!--container-->
+
     <script src="/scripts/typewriter.js"></script>
+    <script src="/scripts/overlay.js"></script>
 </body>
 
 </html>
