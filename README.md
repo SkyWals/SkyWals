@@ -61,3 +61,6 @@
        title="Figma: Ferramenta de Prototipagem"
        align="center" alt="Rakel-figma" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
+
+
+<img alt="Rakel-figma" margin="5" src="./github-contribution-grid-snake.svg" />
