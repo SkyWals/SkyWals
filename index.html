@@ -13,9 +13,30 @@
 
 <body>
     <div class="container">
-        <img id="perfilimage" src="" alt="Perfil">
-        <p id="username"></p>
-        <p id="projects"></p>
+        <hgroup>
+            <img id="perfilimage" src="" alt="Perfil">
+            <p>Boas Vindas,<br/>
+                Meu nome é <span id="username"></span>
+            </p>
+        </hgroup>
+
+        <div class="connections">
+            <p>
+                <strong id="followersValue">102</strong>
+                <br/><span>Seguidores</span>
+            </p>
+            <p><strong id="followingValue">42</strong>
+                <br/><span>Seguindo</span>
+            </p>
+        </div>
+
+        <div class="options">
+            <div class="github">
+                <p><span id="projects"></span><br/>
+                    Projetos<br/>GitHub
+                </p>
+            </div>
+        </div>
     </div><!--container-->
     <script src="./public/script.js"></script>
 </body>
