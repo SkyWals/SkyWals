@@ -9,10 +9,20 @@
     <link rel="icon" href="">
 
     <link rel="stylesheet" href="./public/styles.css">
+    <link rel="stylesheet" href="./public/overllay.css">
+    <script src="./public/overlay.js"></script>
 </head>
 
 <body>
     <div class="container">
+
+
+        <dialog id="overlay">
+            <p>texto de exprerimento</p>
+            <button type="submit" id="closeoverlay"></button>
+        </dialog>
+
+
         <hgroup>
             <img id="perfilimage" src="" alt="Perfil">
             <p>Boas Vindas,<br/>
@@ -33,19 +43,19 @@
 
         <div class="options">
 
-            <div class="cont github">
+            <button type="submit" onclick="" id="openoverlay" class="cont github">
                 <p><span id="projects"></span><br/>
                     Projetos<br/>GitHub
                 </p>
-            </div><!--github-->
+            </button><!--github-->
 
-            <div class="cont services">
+            <button type="submit" onclick="" class="cont services">
                 <p>
                     <img src="./public/assets/services.svg" width="55" height="55" alt="svg">
                     <br/>
                     <span>Services</span>
                 </p>
-            </div><!--services-->
+            </button><!--services-->
 
         </div><!--options-->
 

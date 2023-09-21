@@ -85,6 +85,8 @@ hgroup p {
     justify-content: center;
     align-items: center;
     cursor: pointer;
+
+    border: 0;
 }
 
 
