@@ -11,16 +11,15 @@
     <link rel="stylesheet" href="./public/styles.css">
     <link rel="stylesheet" href="./public/overllay.css">
 
-    <script src="./public/overlay.js"></script>
 </head>
 
 <body>
     <div class="container">
 
 
-        <dialog id="overlay">
+        <dialog id="favDialog">
             <p>texto de exprerimento</p>
-            <button type="submit" id="closeoverlay"></button>
+            <button type="submit" id="cancel">Fechar</button>
         </dialog>
 
 
@@ -44,7 +43,7 @@
 
         <div class="options">
 
-            <button type="submit" id="openoverlay" class="cont github">
+            <button type="submit" id="updateDetails" class="cont github">
                 <p><span id="projects"></span><br />
                     Projetos<br />GitHub
                 </p>
@@ -79,6 +78,7 @@
     </div><!--container-->
 
     <script src="./public/script.js"></script>
+    <script src="./public/overlay.js"></script>
 </body>
 
 </html>
