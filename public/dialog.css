@@ -1,0 +1,10 @@
+.dialog {
+    width: 340px;
+    height: 600px;
+    border: 0;
+    background-color: #333;
+
+    position: absolute;
+    left: calc(50% - 170px);
+    top: calc(50% - 300px);
+}
