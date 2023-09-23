@@ -34,21 +34,35 @@ function getApiGitHub() {
         })
 }
 
+getApiGitHub()
+
+/*===============================================================*/
+
 function getRepos() {
     fetch('https://api.github.com/users/npcwalison/repos')
         .then(async res => {
             if(!res.ok) {
                 throw new Error(res.status)
             }
-            
+
             let dataRespos = await res.json()
 
+            dataRespos.map(item => {
+                const postProjects = document.getElementById('posts-projects')
 
-            console.log(dataRespos)
+                postProjects.innerHTML += `
+
+                    <button type="submit" class="project-banner">
+                        <h3>${item.name}</h3>
+                        <p>${item.description}</p>
+                    </button>
+
+                `;
+            })
         })
 }
 
-getApiGitHub()
+
 getRepos()
 
 
