@@ -1,12 +1,32 @@
+/*--Global-Config--*/
 .dialog {
     width: 340px;
     height: 600px;
-    border: 0;
+    border: solid 2px #121212;
     background-color: #333;
+    overflow-x: hidden;
 
     position: absolute;
     left: calc(50% - 170px);
     top: calc(50% - 300px);
+
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+/* Works on Chrome, Edge, and Safari */
+dialog::-webkit-scrollbar {
+    width: 0.8px;
+}
+
+dialog::-webkit-scrollbar-track {
+    background: #333;
+}
+
+dialog::-webkit-scrollbar-thumb {
+    background-color: #333;
+    border-radius: 20px;
+    border: 3px solid #FF434A;
 }
 
 .dialog header {
@@ -40,7 +60,34 @@
 .dialog .border {
     border: solid 2px #121212;
     width: 330px;
-    height: 590px;
+    min-height: 590px;
     margin-left: 5px;
     margin-top: 5px;
+    padding: 40px 10px;
+}
+
+
+/*==>PROJECTS<==*/
+.project-banner {
+    width: 100%;
+    padding: 5px 10px;
+    background-color:#29485F;
+
+    border: 0;
+    cursor: pointer;
+
+    text-align: left;
+    color: #fff;
+
+    margin-bottom: 10px;
+}
+.project-banner h3 {
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.project-banner p {
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    font-weight: 300;
 }

@@ -34,7 +34,22 @@ function getApiGitHub() {
         })
 }
 
+function getRepos() {
+    fetch('https://api.github.com/users/npcwalison/repos')
+        .then(async res => {
+            if(!res.ok) {
+                throw new Error(res.status)
+            }
+            
+            let dataRespos = await res.json()
+
+
+            console.log(dataRespos)
+        })
+}
+
 getApiGitHub()
+getRepos()
 
 
 /*
