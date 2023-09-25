@@ -141,3 +141,109 @@ footer#credits img {
 footer#credits img:hover {
     border-bottom: solid 2px #FF434A;
 }
+
+
+
+/*==>PROJECTS<==*/
+.project-banner {
+    width: 100%;
+    padding: 5px 10px;
+    background-color:#29485F;
+
+    border: 0;
+    cursor: pointer;
+
+    text-align: left;
+    color: #fff;
+
+    margin-bottom: 10px;
+}
+.project-banner h3 {
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.project-banner p {
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    font-weight: 300;
+}
+
+
+.project-banner a {
+    color: #FF434A;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    float: right;
+}
+
+
+/*--Global-Config-dialog--*/
+.dialog {
+    max-height: 600px;
+    background-color: #333;
+    overflow-x: hidden;
+    border: 0;
+
+    position: absolute;
+    left: calc(50% - 170px);
+    top: calc(50% - 300px);
+
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+.dialog header {
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    width: 100%;
+    height: 35px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dialog header p {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.dialog header button {
+    width: 35px;
+    height: 35px;
+    border: 0;
+    background-color: #FF434A;
+    color: #fff;
+    cursor: pointer;
+}
+
+.dialog .border {
+    border: solid 2px #121212;
+    width: 330px;
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 40px 10px;
+    margin: 5px;
+}
+
+/*==>GLOBAL-OVERFLOW-dialog<==*/
+dialog::-webkit-scrollbar {
+    width: 0.8px;
+}
+
+dialog::-webkit-scrollbar-track {
+    background: #333;
+}
+
+dialog::-webkit-scrollbar-thumb {
+    background-color: #333;
+    border-radius: 20px;
+    border: 3px solid #FF434A;
+}
