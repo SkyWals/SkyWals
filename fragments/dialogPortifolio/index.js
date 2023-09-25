@@ -1,16 +1,16 @@
 //configurando-janela-flutuante-portifolio
 (function () {
-  var updateButton = document.getElementById("updateDetails");
-  var cancelButton = document.getElementById("cancel");
-  var favDialog = document.getElementById("favDialog");
+  var openDialogPortifolio = document.getElementById("openDialogPortifolio");
+  var closeDialogPortifolio = document.getElementById("closeDialogPortifolio");
+  var portifolioDialog = document.getElementById("portifolioDialog");
 
   // O botão Update abre uma Dialog
-  updateButton.addEventListener("click", function () {
-    favDialog.showModal();
+  openDialogPortifolio.addEventListener("click", function () {
+    portifolioDialog.showModal();
   });
 
   // O botão cancelButtom fecha uma Dialog
-  cancelButton.addEventListener("click", function () {
-    favDialog.close();
+  closeDialogPortifolio.addEventListener("click", function () {
+    portifolioDialog.close();
   });
 })();

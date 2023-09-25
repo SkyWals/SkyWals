@@ -7,7 +7,7 @@
 
     <title>Walison Lima | Portifolio</title>
     <link rel="icon" href="">
-
+    <!--StylesSheets-->
     <link rel="stylesheet" href="./public/styles.css">
     <link rel="stylesheet" href="./fragments/dialogPortifolio/styles.css">
 
@@ -17,10 +17,10 @@
     <div class="container">
 
         <!--==>POPUP-PORTIFOLIO-START<==-->
-        <dialog id="favDialog" class="dialog">
+        <dialog id="portifolioDialog" class="dialog">
             <header>
                 <p>CLIQUE NO PROJETO PARA VER MAIS</p>
-                <button type="submit" id="cancel">X</button>
+                <button type="submit" id="closeDialogPortifolio">X</button>
             </header>
             <div class="border" id="posts-projects">
                 <!--PROJECTS.MAP-->
@@ -49,7 +49,7 @@
 
         <div class="options">
 
-            <button type="submit" id="updateDetails" class="cont github">
+            <button type="submit" id="openDialogPortifolio" class="cont github">
                 <p><span id="projects"></span><br />
                     Projetos<br />GitHub
                 </p>
@@ -83,8 +83,8 @@
         </footer><!--credits-->
     </div><!--container-->
 
+    <!--Scripts-->
     <script src="./api/github.js"></script>
     <script src="./fragments/dialogPortifolio/index.js"></script>
 </body>
-
 </html>
