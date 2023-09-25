@@ -1,4 +1,4 @@
-/*--Global-Config--*/
+/*--Global-Config-dialog--*/
 .dialog {
     width: 340px;
     height: 600px;
@@ -12,21 +12,6 @@
 
     overflow-y: scroll;
     scroll-behavior: smooth;
-}
-
-/* Works on Chrome, Edge, and Safari */
-dialog::-webkit-scrollbar {
-    width: 0.8px;
-}
-
-dialog::-webkit-scrollbar-track {
-    background: #333;
-}
-
-dialog::-webkit-scrollbar-thumb {
-    background-color: #333;
-    border-radius: 20px;
-    border: 3px solid #FF434A;
 }
 
 .dialog header {
@@ -64,6 +49,21 @@ dialog::-webkit-scrollbar-thumb {
     margin-left: 5px;
     margin-top: 5px;
     padding: 40px 10px;
+}
+
+/*==>GLOBAL-OVERFLOW-dialog<==*/
+dialog::-webkit-scrollbar {
+    width: 0.8px;
+}
+
+dialog::-webkit-scrollbar-track {
+    background: #333;
+}
+
+dialog::-webkit-scrollbar-thumb {
+    background-color: #333;
+    border-radius: 20px;
+    border: 3px solid #FF434A;
 }
 
 
