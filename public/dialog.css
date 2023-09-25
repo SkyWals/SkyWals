@@ -91,3 +91,13 @@ dialog::-webkit-scrollbar-thumb {
     letter-spacing: 0.1em;
     font-weight: 300;
 }
+
+
+.project-banner a {
+    color: #FF434A;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    float: right;
+}
