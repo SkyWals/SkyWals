@@ -2,9 +2,9 @@
 .dialog {
     width: 340px;
     height: 600px;
-    border: solid 2px #121212;
     background-color: #333;
     overflow-x: hidden;
+    border: 0;
 
     position: absolute;
     left: calc(50% - 170px);
