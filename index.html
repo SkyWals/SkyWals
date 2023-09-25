@@ -10,6 +10,7 @@
     <!--StylesSheets-->
     <link rel="stylesheet" href="./public/styles.css">
     <link rel="stylesheet" href="./fragments/dialogPortifolio/styles.css">
+    <link rel="stylesheet" href="./fragments/dialogForm/styles.css">
 
 </head>
 
@@ -27,6 +28,18 @@
             </div>
         </dialog>
         <!--==>POPUP-PORTIFOLIO-END<==-->
+
+        <!--==>POPUP-FORMULARIO-START<==-->
+        <dialog id="portifolioForm" class="dialog">
+            <header>
+                <p>CLIQUE NO PROJETO PARA VER MAIS</p>
+                <button type="submit" id="closeDialogForm">X</button>
+            </header>
+            <div class="border" id="posts-projects">
+                <!--PROJECTS.MAP-->
+            </div>
+        </dialog>
+        <!--==>POPUP-FORMULARIO-END<==-->
 
 
         <hgroup>
@@ -55,7 +68,7 @@
                 </p>
             </button><!--github-->
 
-            <button type="submit" id="updateFormButton" class="cont services">
+            <button type="submit" id="openDialogForm" class="cont services">
                 <p>
                     <img src="./public/assets/services.svg" width="55" height="55" alt="svg">
                     <br />
@@ -86,5 +99,7 @@
     <!--Scripts-->
     <script src="./api/github.js"></script>
     <script src="./fragments/dialogPortifolio/index.js"></script>
+    <script src="./fragments/dialogForm/index.js"></script>
 </body>
+
 </html>
