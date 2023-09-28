@@ -23,7 +23,7 @@
     justify-content: space-evenly;
 }
 
-#btnEnviar {
+#sendForm {
     width: 55%;
     text-align: center;
     background-color: rgb(20, 145, 9);
@@ -38,6 +38,37 @@
     transition: background 0.5s;
 }
 
-#btnEnviar:hover {
+#sendForm:hover {
     background-color: rgb(20 145 9 / 0.7);
+}
+
+/*formulario*/
+#posts-projects form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#posts-projects form input {
+    margin-bottom: 10px;
+    width: 96%;
+    padding: 4px 6px;
+
+    border: solid 2px #121212;
+    background: transparent;
+    color: #fff;
+}
+#posts-projects form input::placeholder,
+#posts-projects form textarea::placeholder {
+    color: rgb(118 118 118 / .5);
+}
+#posts-projects form textarea {
+    width: 96%;
+    margin-bottom: 26px;
+    resize: none;
+    padding: 4px 6px;
+
+    border: solid 2px #121212;
+    background: transparent;
+    color: #fff;
 }

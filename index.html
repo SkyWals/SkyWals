@@ -21,7 +21,7 @@
         <dialog id="portifolioDialog" class="dialog">
             <header>
                 <p>CLIQUE NO PROJETO PARA VER MAIS</p>
-                <button type="submit" id="closeDialogPortifolio">X</button>
+                <button id="closeDialogPortifolio">X</button>
             </header>
             <div class="border" id="posts-projects">
                 <!--PROJECTS.MAP-->
@@ -30,12 +30,24 @@
         <!--==>POPUP-PORTIFOLIO-END<==-->
 
         <!--==>POPUP-FORMULARIO-START<==-->
-        <dialog id="portifolioForm" class="dialog">
+        <dialog open id="portifolioForm" class="dialog">
             <div class="border" id="posts-projects">
-                <div class="buttonsArea">
-                    <button type="submit" id="closeDialogForm">Cancelar</button>
-                    <button type="submit" id="btnEnviar">Enviar</button>
-                </div>
+                <form action=""> 
+
+                    <input type="name" placeholder="Insira seu nome aqui">
+                    <input type="email" placeholder="Insira seu email aqui">
+
+                    <input type="text" placeholder="Insira o titulo do assunto">
+                    <textarea name="" id="" cols="30" rows="10"
+                        placeholder="Insira aqui o assunto"
+                        maxlength="1000"
+                    ></textarea>
+
+                    <div class="buttonsArea">
+                        <button type="button" id="closeDialogForm">Cancelar</button>
+                        <button type="submit" id="sendForm">Enviar</button>
+                    </div>
+                </form>
             </div>
         </dialog>
         <!--==>POPUP-FORMULARIO-END<==-->
@@ -50,19 +62,19 @@
 
         <div class="connections">
             <p>
-                <strong id="followersValue">102</strong>
+                <strong id="followersValue"> - </strong>
                 <br /><span>Seguidores</span>
             </p>
             <p>
-                <strong id="followingValue">42</strong>
-                <br /><span>Seguindo</span>
+                <strong id="followingValue"> - </strong>
+                <br /><span>Seguindo</span> 
             </p>
         </div><!--connections-->
 
         <div class="options">
 
-            <button type="submit" id="openDialogPortifolio" class="cont github">
-                <p><span id="projects"></span><br />
+            <button id="openDialogPortifolio" class="cont github">
+                <p><span id="projects"> - </span><br />
                     Projetos<br />GitHub
                 </p>
             </button><!--github-->
