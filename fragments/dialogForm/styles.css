@@ -57,6 +57,7 @@
     border: solid 2px #121212;
     background: transparent;
     color: #fff;
+    outline: 0;
 }
 #posts-projects form input::placeholder,
 #posts-projects form textarea::placeholder {
@@ -71,4 +72,5 @@
     border: solid 2px #121212;
     background: transparent;
     color: #fff;
+    outline: 0;
 }
