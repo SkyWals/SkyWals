@@ -49,9 +49,6 @@
        title="Vuejs: framework para desenvolvimento leve, simples e forte"
        align="center" alt="Rakel-react" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img
-       title="Electron: Usado para criação de Aplicativos Desktop"
-       align="center" alt="Rakel-electron" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img
        title="MySQL: Banco de dados relacional"
        align="center" alt="Rakel-mysql" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img
