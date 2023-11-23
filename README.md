@@ -40,7 +40,7 @@
        title="Sass: Tecnologia de estilização"
        align="center" alt="Rakel-Sass" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img
-       title="Reactjs: Framework para desenvolvimento leve, simples e forte"
+       title="Reactjs: Biblioteca de desenvolvimento Font-end"
        align="center" alt="Rakel-React" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img
        title="MySQL: Banco de dados relacional"
