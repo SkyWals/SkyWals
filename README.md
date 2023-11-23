@@ -36,9 +36,6 @@
   <img
        title="css: Tecnologia de estilização"
        align="center" alt="Rakel-CSS" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img
-       title="javascript: Linguagem de Programação"
-       align="center" alt="Rakel-Js" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img
        title="javascript: Linguagem de Programação"
        align="center" alt="Rakel-Ts" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
