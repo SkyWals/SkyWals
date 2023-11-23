@@ -47,7 +47,7 @@
        align="center" alt="Rakel-Nodejs" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img
        title="Vuejs: framework para desenvolvimento leve, simples e forte"
-       align="center" alt="Rakel-vue" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" />
+       align="center" alt="Rakel-vuejs" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img
        title="MySQL: Banco de dados relacional"
        align="center" alt="Rakel-mysql" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
