@@ -36,12 +36,12 @@
     <img
        title="Nodejs: Software de código aberto para javascript"
        align="center" alt="Rakel-Nodejs" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img
-       title="Reactjs: Framework para desenvolvimento leve, simples e forte"
-       align="center" alt="Rakel-React" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img
        title="Sass: Tecnologia de estilização"
        align="center" alt="Rakel-Sass" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img
+       title="Reactjs: Framework para desenvolvimento leve, simples e forte"
+       align="center" alt="Rakel-React" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img
        title="MySQL: Banco de dados relacional"
        align="center" alt="Rakel-MySql" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
