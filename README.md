@@ -31,29 +31,26 @@
 
 <div style="display: inline_block">
     <img
-       title="nodejs: software de código aberto para javascript"
+       title="Typescript: Linguagem de typagem baseada em Javascript"
+       align="center" alt="Rakel-Ts" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img
+       title="Nodejs: Software de código aberto para javascript"
        align="center" alt="Rakel-Nodejs" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img
-       title="css: Tecnologia de estilização"
-       align="center" alt="Rakel-SCSS" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-   <img
-       title="javascript: Linguagem de Programação"
-       align="center" alt="Rakel-Ts" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img
-       title="Vuejs: framework para desenvolvimento leve, simples e forte"
-       align="center" alt="Rakel-vuejs" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+       title="Vuejs: Framework para desenvolvimento leve, simples e forte"
+       align="center" alt="Rakel-Vuejs" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img
+       title="Sass: Tecnologia de estilização"
+       align="center" alt="Rakel-Sass" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img
        title="MySQL: Banco de dados relacional"
-       align="center" alt="Rakel-mysql" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+       align="center" alt="Rakel-MySql" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img
-       title="MongoDB: banco de dados não relacional"
-       align="center" alt="Rakel-mongodb" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+       title="MongoDB: Banco de dados não relacional"
+       align="center" alt="Rakel-MongoDB" margin="5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img
        title="Figma: Ferramenta de Prototipagem"
-       align="center" alt="Rakel-figma" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img
-       title="Figma: Ferramenta de Prototipagem"
-       align="center" alt="Rakel-java" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+       align="center" alt="Rakel-Figma" margin="5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 
