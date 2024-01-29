@@ -1,0 +1,26 @@
+{
+    //===>Layout
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "newUntitledFile", //Remove a tela de boas vindas.
+    "editor.renderLineHighlight": "gutter", //Marcador de linha.
+    "workbench.editor.labelFormat": "short", //Compacta o titulo do arquivo.
+    "explorer.compactFolders": false, //Configura a arvore de arquivos.
+    "breadcrumbs.enabled": false, //Remove caminho dos arquivos no topo.
+    //"workbench.activityBar.location": "hidden", //Remove menu lateral, acessa com Ctrl + Q.
+    //===>AutoSave
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    //===>StylesFont
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true, //Habilita caracteres especiais.
+    "editor.fontWeight": "500",
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.8,
+    "editor.semanticHighlighting.enabled": false, //Remove marcação de erro semantico.
+    //===>WordWrap
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 80,
+}
